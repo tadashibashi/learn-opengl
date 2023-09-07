@@ -1,0 +1,9 @@
+{
+  "name": "learn-opengl",
+  "version": "0.0.1",
+  "dependencies": [
+    "sdl2",
+    "opengl",
+    "spdlog"
+  ]
+}
